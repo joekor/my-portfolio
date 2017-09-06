@@ -1,2 +1,3 @@
-# my-portfolio
-Repo for test files for acloud-guru 
+# Joel's portfolio
+Repo for test files for acloud-guru
+it used AWS and react.
