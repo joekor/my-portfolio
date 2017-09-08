@@ -3,7 +3,7 @@ version: 0.1
 phases:
   build:
     commands:
-      - Echo "nothing to do yet"
+      - echo "nothing to do yet"
 
 artifacts:
   files:
